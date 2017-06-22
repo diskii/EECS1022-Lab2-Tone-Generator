@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tone Generatorテスト</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Use the sliders to adjust frequency and amplitude. </string>
+    <string name="amplitude_title">Amplitude</string>
+    <string name="frequency_title">Frequency</string>
+</resources>
